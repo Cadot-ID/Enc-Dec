@@ -1,0 +1,2 @@
+requests==2.23.0
+uncompyle6==3.7.1
